@@ -32,7 +32,7 @@ public class Andrei10 {
 		        
 		        for(int i = 0;i < array1.length; i++){
 		            for(int j = 0; j < array1[0].length; j++){
-		                System.out.println("Escribe el valor paara la fila 22 " + i + " y la columna " + j + " de la array 1");
+		                System.out.println("Escribe el valor paara la fila 22 " + i + " y la mesa " + j + " de la array 1");
 		                array1[i][j] = sc.nextInt();
 		                System.out.println("Escribe el valor paara la fila " + i + " y la columna " + j + " de la array 2");
 		                array2[i][j] = sc.nextInt();
