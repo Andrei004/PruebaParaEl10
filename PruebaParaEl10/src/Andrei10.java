@@ -23,7 +23,7 @@ public class Andrei10 {
 		public static void main(String[] args) {
 				        
 		        Scanner sc = new Scanner(System.in);
-		        System.out.println("Introduce el tamaño de tus japis");
+		        System.out.println("Introduce los tamaños de mis japis");
 		        int num = sc.nextInt();
 		        
 		        int array1[][] = new int [num][num];
