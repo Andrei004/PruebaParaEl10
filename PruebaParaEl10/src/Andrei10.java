@@ -45,7 +45,7 @@ public class Andrei10 {
 		        moArray(array1);
 		        System.out.println("Array 2");
 		        moArray(array2);
-		        System.out.println("Array resultante");
+		        System.out.println("Japi resultante");
 		        moArray(arrayResultante);
 		    }
 		    
